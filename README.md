@@ -11,11 +11,6 @@
 	<artifactId>h2</artifactId>
 	<scope>runtime</scope>
 </dependency>
-
-<dependency>
-	<groupId>org.springframework.boot</groupId>
-	<artifactId>spring-boot-starter-validation</artifactId>
-</dependency>
 ```
 
 # Configuração do Banco de Dados H2
